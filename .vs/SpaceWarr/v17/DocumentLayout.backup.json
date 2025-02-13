@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|c:\\users\\turan\\source\\repos\\spacewarr\\spacewarr\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|solutionrelative:spacewarr\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|c:\\users\\turan\\source\\repos\\spacewarr\\spacewarr\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|solutionrelative:spacewarr\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|c:\\users\\turan\\source\\repos\\spacewarr\\spacewarr\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|solutionrelative:spacewarr\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|c:\\users\\turan\\source\\repos\\spacewarr\\spacewarr\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|solutionrelative:spacewarr\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|c:\\users\\turan\\source\\repos\\spacewarr\\spacewarr\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|solutionrelative:spacewarr\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|c:\\users\\turan\\source\\repos\\spacewarr\\spacewarr\\bulletforenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|solutionrelative:spacewarr\\bulletforenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|c:\\users\\turan\\source\\repos\\spacewarr\\spacewarr\\collect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|solutionrelative:spacewarr\\collect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|c:\\users\\turan\\source\\repos\\spacewarr\\spacewarr\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC332FF-E945-40F8-B837-F6D043FADDE2}|SpaceWarr\\SpaceWarr.csproj|solutionrelative:spacewarr\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScoreBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\ScoreBoard.cs",
+              "RelativeDocumentMoniker": "SpaceWarr\\ScoreBoard.cs",
+              "ToolTip": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\ScoreBoard.cs",
+              "RelativeToolTip": "SpaceWarr\\ScoreBoard.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:01:47.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Enemy.cs",
+              "RelativeDocumentMoniker": "SpaceWarr\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Enemy.cs",
+              "RelativeToolTip": "SpaceWarr\\Enemy.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:00:47.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionDetector.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\CollisionDetector.cs",
+              "RelativeDocumentMoniker": "SpaceWarr\\CollisionDetector.cs",
+              "ToolTip": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\CollisionDetector.cs",
+              "RelativeToolTip": "SpaceWarr\\CollisionDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:00:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collect.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Collect.cs",
+              "RelativeDocumentMoniker": "SpaceWarr\\Collect.cs",
+              "ToolTip": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Collect.cs",
+              "RelativeToolTip": "SpaceWarr\\Collect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:59:54.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BulletForEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\BulletForEnemy.cs",
+              "RelativeDocumentMoniker": "SpaceWarr\\BulletForEnemy.cs",
+              "ToolTip": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\BulletForEnemy.cs",
+              "RelativeToolTip": "SpaceWarr\\BulletForEnemy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:59:29.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Game.cs",
+              "RelativeDocumentMoniker": "SpaceWarr\\Game.cs",
+              "ToolTip": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Game.cs",
+              "RelativeToolTip": "SpaceWarr\\Game.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:56:43.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Spaceship.cs",
+              "RelativeDocumentMoniker": "SpaceWarr\\Spaceship.cs",
+              "ToolTip": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Spaceship.cs",
+              "RelativeToolTip": "SpaceWarr\\Spaceship.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA1wFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:02:23.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Bullet.cs",
+              "RelativeDocumentMoniker": "SpaceWarr\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Turan\\source\\repos\\SpaceWarr\\SpaceWarr\\Bullet.cs",
+              "RelativeToolTip": "SpaceWarr\\Bullet.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:58:58.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
