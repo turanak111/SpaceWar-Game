@@ -1,4 +1,4 @@
- Spacewar
+# Spacewar
 
 **Spacewar** is a space shooter game developed using **Raylib** and **C#**. The player controls a spaceship and must survive by defeating incoming enemies while collecting gems to gain experience and score.
 
